@@ -41,7 +41,7 @@ algorithm. My interests include:
   <summary><b>:feelsgood: Contact me</b></summary>
   <br/>
   
-  - ![Linkedin](https://www.linkedin.com/in/miguel-r-ferreira/)
-  - ![Portfolio](miguelrferreiraf.github.io)
+  - [Linkedin](https://www.linkedin.com/in/miguel-r-ferreira/)
+  - [Portfolio](miguelrferreiraf.github.io)
  </details>
   

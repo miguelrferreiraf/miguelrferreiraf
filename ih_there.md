@@ -22,7 +22,6 @@ algorithm. My interests include:
 <details>
   <summary><b>:wave:About me</b></summary>
   <br/>
-
 - **Nature affects me** 🌳🌋.
 
   <img src=img/IMG_20220828_174601_015.jpg width=45% height=45%>  

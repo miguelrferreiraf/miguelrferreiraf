@@ -1,4 +1,5 @@
-# Hello there! 😊
+# Hello there! <a href="https://www.gautamkrishnar.com/">
+<imgsrc="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 <img src=https://artincontext.org/wp-content/uploads/2022/05/Wanderer-Above-the-Sea-of-Fog-by-Caspar-David-Friedrich-848x530.jpg width=60% height=60%> 
 
@@ -8,8 +9,8 @@ Really really love what I do 😀! ***I'm obsessed*** with the implications of g
 learning and how it can change how we face real world problems. But not only this: I wonder <br>
 not only what machine learning can do for ourselves but what WE may learn from them 😦 :suspect:.
 
-I have familiarity with most of Python technologies of machine learning and data science but <br>
-my most important tool is my capabilitie to link different fields of knowledge in a engaging <br>
+I have familiarity with most of **Python technologies** of **machine learning and data science** <br>
+but my most important tool is my capabilitie to link different fields of knowledge in a engaging <br>
 algorithm. My interests include:
 
 - 📊 Machine learning, IA and it's implications 📉
@@ -26,7 +27,6 @@ algorithm. My interests include:
 - **Nature affects me** 🌳🌋.
 
   <img src=img/IMG_20220828_174601_015.jpg width=45% height=45%>
-
   
   I'm obsessed with nature. That's why I chose _The wanderer above the sea of fog_ to open my overview.<br>
   It's the opitome of the romantic nature affected man. With romantic I mean not traditionally <br>
@@ -34,7 +34,7 @@ algorithm. My interests include:
   constantly think about while programming, how technology inspire me to the other hand: life, nature, <br>
   culture... things like this really move me and soar me.
   
- <img src=img/Polish_20220828_175114897.jpg width=45% height=45%>
+  <img src=img/Polish_20220828_175114897.jpg width=45% height=45%>
  
 </details>
   

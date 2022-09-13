@@ -20,11 +20,9 @@ algorithm. My interests include:
 
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <summary><b>About me</b></summary>
   <br/>
 
-
-
-## Nature affects me 🌳🌋.
+Nature affects me 🌳🌋.
 
 ![pic I took]()

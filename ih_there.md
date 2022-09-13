@@ -12,11 +12,11 @@ I have familiarity with most of Python technologies of machine learning and data
 my most important tool is my capabilitie to link different fields of knowledge in a engaging <br>
 algorithm. My interests include:
 
-- Machine learning, IA and it's implications
+- Machine learning, IA and it's implications 📊📉
 - Mathematics for machine learning and data science
-- Philosophy, history and why world is what it is
+- Philosophy, history and why world is what it is 📖📚
 - Chess (not specially well played), swimming 🏊‍♂️
-- Nature and how it define us at all 🌎☀️🌊🐦
+- Nature and how it define us at all 🌎☀️🌊
 
 
 <details>
@@ -33,10 +33,15 @@ algorithm. My interests include:
   constantly think about while programming, how technology inspire me to the other hand: life, nature, <br>
   culture... things like this really move me and soar me.
   
+ ![other pic I took]()
+ 
+</details>
+  
 <details>
   <summary><b>:feelsgood: Contact me</b></summary>
   <br/>
   
   - ![Linkedin](https://www.linkedin.com/in/miguel-r-ferreira/)
   - ![Portfolio](miguelrferreiraf.github.io)
+ </details>
   

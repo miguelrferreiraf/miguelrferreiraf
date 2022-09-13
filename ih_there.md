@@ -6,7 +6,7 @@ My name is Miguel Ferreira and I am a **machine learning engineer** and **data s
 
 Really really love what I do 😀! ***I'm obsessed*** with the implications of generative machine <br>
 learning and how it can change how we face real world problems. But not only this: I wonder <br>
-not only what machine learning can do for ourselves but what WE may learn from them 😦 :suspect:.
+not only what machine learning can do for ourselves but what WE may learn from them 😦:suspect:.
 
 I have familiarity with most of **Python technologies** of **machine learning and data science** <br>
 but my most important tool is my capabilitie to link different fields of knowledge in a engaging <br>
@@ -34,6 +34,10 @@ constantly think about while programming, how technology inspire me to the other
 culture... things like this really move me and soar me.
   
   <img src=img/Polish_20220828_175114897.jpg width=45% height=45%>
+  
+- **Philosophy and religion**
+  
+  ![Eliade](https://upload.wikimedia.org/wikipedia/en/8/8c/Mircea.eliade.jpg)
  
 </details>
   

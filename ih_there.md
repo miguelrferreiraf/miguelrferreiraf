@@ -9,14 +9,18 @@ learning and how it can change how we face real world problems. But not only thi
 not only what machine learning can do for ourselves but what WE may learn from them 😦 :suspect:.
 
 I have familiarity with most of Python technologies of machine learning and data science but <br>
-my most important tool is my capabilitie to link different fields of knowledge in engaging algorithm. <br>
-My interests include:
+my most important tool is my capabilitie to link different fields of knowledge in a engaging <br>
+algorithm. My interests include:
 
 - Machine learning, IA and it's implications
 - Mathematics for machine learning and data science
 - Philosophy, history and why world is what it is
 - Chess (not specially well played), swimming 🏊‍♂️
 - Nature and how it define us at all 🌎☀️🌊🐦
+
+<summary>
+  <a>:wave:About me</a>
+</summary>
 
 ## Nature affects me 🌳🌋.
 

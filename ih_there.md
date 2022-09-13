@@ -20,7 +20,7 @@ algorithm. My interests include:
 
 
 <details>
-  <summary><b>About me</b></summary>
+  <summary><b>:wave: About me</b></summary>
   <br/>
 
 Nature affects me 🌳🌋.

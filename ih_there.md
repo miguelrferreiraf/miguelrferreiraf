@@ -19,8 +19,8 @@ algorithm. My interests include:
 - Nature and how it define us at all 🌎☀️🌊🐦
 
 
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
+<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+<br/>
 
 
 ## Nature affects me 🌳🌋.

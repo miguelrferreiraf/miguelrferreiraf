@@ -33,7 +33,8 @@ algorithm. My interests include:
   constantly think about while programming, how technology inspire me to the other hand: life, nature, <br>
   culture... things like this really move me and soar me.
   
-  <summary><b>:wave: Contact</b></summary>
+<details>
+  <summary><b>:feelsgood: Contact me</b></summary>
   <br/>
   
   - ![Linkedin](https://www.linkedin.com/in/miguel-r-ferreira/)

@@ -25,7 +25,7 @@ algorithm. My interests include:
 
 - **Nature affects me** 🌳🌋.
 
-  ![pic i took]('')
+  ![pic i took]('img/IMG_20220828_174601_015.jpg')
 
   
   I'm obsessed with nature. That's why I chose _The wanderer above the sea of fog_ to open my overview.<br>

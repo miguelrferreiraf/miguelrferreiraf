@@ -32,7 +32,6 @@ It's the opitome of the romantic nature affected man. With romantic I mean not t
 romantic, like Titanic or Romeu and Juliet, but romantic by thinking over our place in world. I <br>
 constantly think about while programming, how technology inspire me to the other hand: life, nature, <br>
 culture... things like this really move me and soar me.
-  
   <img src=img/Polish_20220828_175114897.jpg width=45% height=45%>
   
 - **Philosophy and religion**

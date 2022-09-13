@@ -1,6 +1,6 @@
 # Hello there! 😊
 
-<img src=https://artincontext.org/wp-content/uploads/2022/05/Wanderer-Above-the-Sea-of-Fog-by-Caspar-David-Friedrich-848x530.jpg width=55% height=50%> 
+<img src=https://artincontext.org/wp-content/uploads/2022/05/Wanderer-Above-the-Sea-of-Fog-by-Caspar-David-Friedrich-848x530.jpg width=60% height=60%> 
 
 My name is Miguel Ferreira and I am a **machine learning engineer** and **data scientist**.
 
@@ -12,15 +12,15 @@ I have familiarity with most of Python technologies of machine learning and data
 my most important tool is my capabilitie to link different fields of knowledge in a engaging <br>
 algorithm. My interests include:
 
-- Machine learning, IA and it's implications 📊📉
-- Mathematics for machine learning and data science
-- Philosophy, history and why world is what it is 📖📚
-- Chess (not specially well played), swimming 🏊‍♂️
-- Nature and how it define us at all 🌎☀️🌊
+- 📊 Machine learning, IA and it's implications 📉
+- ➗ Mathematics for machine learning and data science
+- 📚 Philosophy, history and why world is what it is 📖
+- 🏊‍ Swimming, chess (not specifically wel played 😆)
+- 🌎 Nature and how it define us at all ☀️🌊
 
 
 <details>
-  <summary><b>:wave: About me</b></summary>
+  <summary><b>:wave:About me</b></summary>
   <br/>
 
 - **Nature affects me** 🌳🌋.
@@ -34,12 +34,12 @@ algorithm. My interests include:
   constantly think about while programming, how technology inspire me to the other hand: life, nature, <br>
   culture... things like this really move me and soar me.
   
- ![other pic I took]()
+ <img src=img/Polish_20220828_175114897.jpg width=45% height=45%>
  
 </details>
   
 <details>
-  <summary><b>:feelsgood: Contact me</b></summary>
+  <summary><b>:feelsgood:Contact me</b></summary>
   <br/>
   
   - [Linkedin](https://www.linkedin.com/in/miguel-r-ferreira/)

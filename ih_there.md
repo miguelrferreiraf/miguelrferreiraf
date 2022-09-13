@@ -4,7 +4,9 @@
 
 My name is Miguel Ferreira and I am a **machine learning engineer** and **data scientist**.
 
-Really really love what I do 😀! ***I'm obsessed*** with the implications of generative machine <br> learning and how it can change how we face real world problems. But not only this: I wonder not only what machine learning can do for ourselves but what WE may learn from them 😦 :suspect:.
+Really really love what I do 😀! ***I'm obsessed*** with the implications of generative machine <br>
+learning and how it can change how we face real world problems. But not only this: I wonder <br>
+not only what machine learning can do for ourselves but what WE may learn from them 😦 :suspect:.
 
 I have familiarity with most of Python technologies of machine learning and data science but my most important tool is my capabilitie to link different fields of knowledge in engaging algorithm. My interests include:
 

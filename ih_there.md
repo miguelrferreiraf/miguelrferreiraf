@@ -16,4 +16,4 @@ I have familiarity with most of Python technologies of machine learning and data
 
 ## Nature affects me.
 
-![pic I took]('')
+![pic I took](https://drive.google.com/file/d/1-pjnMm_tLJleiHjR1gXforvcwrRHSy-O/view?usp=sharing)

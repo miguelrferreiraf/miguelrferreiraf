@@ -24,8 +24,10 @@ algorithm. My interests include:
   <br/>
   
 - **Nature affects me** 🌳🌋.
-
+  
+  <a align="center">
   <img src=img/IMG_20220828_174601_015.jpg width=45% height=45% item-align=center>
+  </a>
   
 I'm obsessed with nature. That's why I chose _The wanderer above the sea of fog_ to open my overview.<br>
 It's the opitome of the romantic nature affected man. With romantic I mean not traditionally <br>
@@ -33,7 +35,10 @@ romantic, like Titanic or Romeu and Juliet, but romantic by thinking over our pl
 constantly think about while programming, how technology inspire me to the other hand: life, nature, <br>
 culture... things like this really move me and soar me.
   
+  <a align="center">
   <img src=img/Polish_20220828_175114897.jpg width=45% height=45%>
+  </a>
+        
   
 - **Philosophy and religion**
   

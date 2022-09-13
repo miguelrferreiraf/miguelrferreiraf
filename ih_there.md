@@ -23,6 +23,19 @@ algorithm. My interests include:
   <summary><b>:wave: About me</b></summary>
   <br/>
 
-Nature affects me 🌳🌋.
+- **Nature affects me** 🌳🌋.
 
 ![pic I took]()
+  
+  I'm obsessed with nature. That's why I chose _The wanderer above the sea of fog_ to open my overview.<br>
+  It's the opitome of the romantic nature affected man. With romantic I mean not traditionally <br>
+  romantic, like Titanic or Romeu and Juliet, but romantic by thinking over our place in world. I <br>
+  constantly think about while programming, how technology inspire me to the other hand: life, nature, <br>
+  culture... things like this really move me and soar me.
+  
+  <summary><b>:wave: Contact</b></summary>
+  <br/>
+  
+  - ![Linkedin](https://www.linkedin.com/in/miguel-r-ferreira/)
+  - ![Portfolio](miguelrferreiraf.github.io)
+  

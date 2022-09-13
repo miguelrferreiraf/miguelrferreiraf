@@ -1,6 +1,6 @@
 # Hello there! 😊
 
-![Wanderer](https://artincontext.org/wp-content/uploads/2022/05/Wanderer-Above-the-Sea-of-Fog-by-Caspar-David-Friedrich-848x530.jpg)
+<img src=https://artincontext.org/wp-content/uploads/2022/05/Wanderer-Above-the-Sea-of-Fog-by-Caspar-David-Friedrich-848x530.jpg width=35% height=35%> 
 
 My name is Miguel Ferreira and I am a **machine learning engineer** and **data scientist**.
 

@@ -25,7 +25,8 @@ algorithm. My interests include:
 
 - **Nature affects me** 🌳🌋.
 
-<image href=img/IMG_20220828_174601_015.jpg width= 300px height=500px>
+  ![pic i took]('')
+
   
   I'm obsessed with nature. That's why I chose _The wanderer above the sea of fog_ to open my overview.<br>
   It's the opitome of the romantic nature affected man. With romantic I mean not traditionally <br>

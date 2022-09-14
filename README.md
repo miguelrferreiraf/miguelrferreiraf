@@ -16,7 +16,7 @@ I have familiarity with most of **Python technologies** of **machine learning an
 
 
 <details>
-  <summary><b>:nerd:What do I do?</b></summary>
+  <summary><b>🤓 What do I do?</b></summary>
   <br/>
 
 Everything involving machine learning, IA, data science and each papeline step since the data obtentin to hosting is of my interest.

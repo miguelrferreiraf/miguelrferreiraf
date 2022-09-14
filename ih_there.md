@@ -36,9 +36,9 @@ culture... things like this really move me and soar me.
   <div align="center"><img src=img/Polish_20220828_175114897.jpg width=45% height=45%></div>
         
   
-- **Philosophy and religion**
+- **Philosophy and religion** 🙏✝️⛪
   
-  ![Eliade](https://upload.wikimedia.org/wikipedia/en/8/8c/Mircea.eliade.jpg)
+  <div align="center"><img src=https://upload.wikimedia.org/wikipedia/en/8/8c/Mircea.eliade.jpg></div>
  
 </details>
   

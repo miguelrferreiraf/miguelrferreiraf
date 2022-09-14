@@ -52,7 +52,7 @@ I really think deeply not only over the problems machine learning can solve for 
   
   <div align="center"><img src=https://upload.wikimedia.org/wikipedia/en/8/8c/Mircea.eliade.jpg alt="Mircea Eliade"></div>
   
-Do you know this guy? Is ***Mircea Eliade***. The second Jung. I love both. Jung fought in the psychological field. Eliade, on religion. The enemy was the question: why do we think, act and behave like we do? Why do we constitute culture, sing 🎵, paint 🖌️ or dance 💃? You may not understand why this has anything to do with programming but we haven't never in history been so distant from our natural origins, **for the code we're programming are now programming us**.  
+Do you know this guy? Is ***Mircea Eliade***. The second Jung. I love both. Jung fought in the psychological field. Eliade, on religion. The enemy was the question: why do we think, act and behave like we do? Why do we constitute culture, sing 🎵, paint 🖌️ or dance 💃? You may not understand why this has anything to do with programming but we haven't never in history been so distant from our natural origins, **for the code we're programming are now programming us!!**:rage1::rage3::gobersek:.  
   
 That's why I really love studying religion, culture and history. It turns me even into a better programmer. For I'm worried what could we reach with our progress and what may we lose. 
  

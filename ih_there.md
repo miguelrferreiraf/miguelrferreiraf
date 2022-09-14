@@ -29,7 +29,6 @@ I'm obsessed with nature. That's why I chose _The wanderer above the sea of fog_
   
   <div align="center"><img src=img/Polish_20220828_175114897.jpg width=45% height=45% açt="Other one..."></div>
         
-  
 - **Philosophy and religion** 🙏✝️⛪
   
   <div align="center"><img src=https://upload.wikimedia.org/wikipedia/en/8/8c/Mircea.eliade.jpg alt="Mircea Eliade"></div>

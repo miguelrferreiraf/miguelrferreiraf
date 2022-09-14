@@ -67,4 +67,4 @@ That's why I really love studying religion, culture and history. It turns me eve
 
 </details>
 
-<div align="center"><img src="https://giphy.com/embed/3o72F75C8wgt3bh9bG" width="30%"></div> 
+<div align="center"><img src="https://i.gifer.com/origin/a5/a5680ea5c7ce4ec4295af7f8fa0d8f48.gif" width="30%"></div> 

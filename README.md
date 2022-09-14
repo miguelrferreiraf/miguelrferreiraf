@@ -30,8 +30,6 @@ Everything involving machine learning, IA, data science and each papeline step s
   
  </details>
   
-
-
 <details>
   <summary><b>:wave:About me</b></summary>
   <br/>

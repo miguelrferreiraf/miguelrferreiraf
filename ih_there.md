@@ -29,13 +29,19 @@ I'm obsessed with nature. That's why I chose _The wanderer above the sea of fog_
   
   <div align="center"><img src=img/Polish_20220828_175114897.jpg width=45% height=45% açt="Other one..."></div>
   
- - **Machine learning beyond it's definition** 🌳🌋.
+- **Machine learning beyond it's definition** 🌳🌋.
   
-  <div align="center"><img src=
+  <div align="center"><img src=img/Capturar.PNG alt="Deep learning for image recognition"></div>
+  
+I really think deeply not only over the problems machine learning can solve for humanity and how it will change work. But I think too about philosophical implications 🤔. What their learning process can teach us about ours? What should we to do to improve their capacity of understanding the world? What lesson should a IA singularity take?
         
 - **Philosophy and religion** 🙏✝️⛪
   
   <div align="center"><img src=https://upload.wikimedia.org/wikipedia/en/8/8c/Mircea.eliade.jpg alt="Mircea Eliade"></div>
+  
+Do you know this guy? Is Mircea Eliade. The second Jung. I love both. Jung fought in the psychological field. Eliade, on religion. The enemy was the question: why do we think, act and behave like we do? Why do we constitute culture, sing 🎵, paint 🖌️ or dance 💃? You may not understand why this has anything to do with programming but we haven't never in history been so distant from our natural origins, for the code we're programming are now programming us.  
+  
+That's why I really love studying religion, culture and history. It turns me even a better programmer. For I'm worried what could us reach with our progress and what may we lose. 
  
 </details>
   

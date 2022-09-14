@@ -21,12 +21,12 @@ I have familiarity with most of **Python technologies** of **machine learning an
 
 Everything involving machine learning, IA, data science and each papeline step since the data obtentin to hosting is of my interest.
   
-  - Web scraping :bar_chart:
-  - Data cleaning :clipboard:
-  - EDA :chart_with_upwards_trend:
-  - Model creation :game_die:
-  - Model performance analysis :space_invader:
-  - Hosting :beers:
+  - **Web scraping** :bar_chart:
+  - **Data cleaning** :clipboard:
+  - **EDA** :chart_with_upwards_trend:
+  - **Model creation** :game_die:
+  - **Model performance analysis** :space_invader:
+  - **Hosting** :beers:
   
  </details>
   
@@ -38,7 +38,7 @@ Everything involving machine learning, IA, data science and each papeline step s
   
   <div align="center"><img src=img/IMG_20220828_174601_015.jpg width=45% height=45% item-align=center alt="Pic I took"></div>
   
-I'm obsessed with nature. That's why I chose _The wanderer above the sea of fog_ to open my overview 🎨. It's the opitome of the romantic nature affected man. With romantic I mean not traditionally romantic, like Titanic or Romeu and Juliet, but romantic by thinking over our place in world. I constantly think about while programming, how technology inspire me to the other hand: life, nature, culture... things like this really move me and soar me.
+I'm obsessed with **nature**. That's why I chose _The wanderer above the sea of fog_ to open my overview 🎨. It's the opitome of the romantic nature affected man. With romantic I mean not traditionally romantic, like Titanic or Romeu and Juliet, but romantic by thinking over our place in world. I constantly think about while programming, how technology inspire me to the other hand: life, nature, culture... things like this really move me and soar me.
   
   <div align="center"><img src=img/Polish_20220828_175114897.jpg width=45% height=45% açt="Other one..."></div>
   
@@ -52,7 +52,7 @@ I really think deeply not only over the problems machine learning can solve for 
   
   <div align="center"><img src=https://upload.wikimedia.org/wikipedia/en/8/8c/Mircea.eliade.jpg alt="Mircea Eliade"></div>
   
-Do you know this guy? Is Mircea Eliade. The second Jung. I love both. Jung fought in the psychological field. Eliade, on religion. The enemy was the question: why do we think, act and behave like we do? Why do we constitute culture, sing 🎵, paint 🖌️ or dance 💃? You may not understand why this has anything to do with programming but we haven't never in history been so distant from our natural origins, for the code we're programming are now programming us.  
+Do you know this guy? Is ***Mircea Eliade***. The second Jung. I love both. Jung fought in the psychological field. Eliade, on religion. The enemy was the question: why do we think, act and behave like we do? Why do we constitute culture, sing 🎵, paint 🖌️ or dance 💃? You may not understand why this has anything to do with programming but we haven't never in history been so distant from our natural origins, **for the code we're programming are now programming us**.  
   
 That's why I really love studying religion, culture and history. It turns me even into a better programmer. For I'm worried what could we reach with our progress and what may we lose. 
  

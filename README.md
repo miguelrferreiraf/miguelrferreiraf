@@ -2,7 +2,7 @@
 
 ## My name is Miguel Ferreira and I am a **machine learning engineer** and **data scientist** 😎.
 
-<div align="center"><img src=https://artincontext.org/wp-content/uploads/2022/05/Wanderer-Above-the-Sea-of-Fog-by-Caspar-David-Friedrich-848x530.jpg width=80% height=80%></div>
+<div align="center"><img src=https://artincontext.org/wp-content/uploads/2022/05/Wanderer-Above-the-Sea-of-Fog-by-Caspar-David-Friedrich-848x530.jpg width=80% height=80% alt="The wanderer above the sea of fog, by Caspar D. Friedrich"></div>
 
 Really really love what I do 😀! ***I'm obsessed*** with the implications of generative machine learning and how it can change how we face real world problems. But not only this: I wonder not only what machine learning can do for ourselves but what WE may learn from them 😦:suspect:.
 

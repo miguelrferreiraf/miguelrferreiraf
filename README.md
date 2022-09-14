@@ -36,7 +36,7 @@ Everything involving machine learning, IA, data science and each papeline step s
   
 - **Nature affects me** 🌳🌋.
   
-  <div align="center"><img src=img/IMG_20220828_174601_015.jpg width=50% height=50% item-align=center alt="Pic I took"><p>Pic I took</p></div>
+  <div align="center"><img src=img/IMG_20220828_174601_015.jpg width=50% height=50% item-align=center alt="Pic I took"><p><i>Pic I took. Going home at dusk</i></p></div>
   
 I'm obsessed with **nature**. That's why I chose _The wanderer above the sea of fog_ to open my overview 🎨. It's the opitome of the romantic nature affected man. With romantic I mean not traditionally romantic, like Titanic or Romeu and Juliet, but romantic by thinking over our place in world. I constantly think about while programming, how technology inspire me to the other hand: life, nature, culture... things like this really move me and soar me.
   

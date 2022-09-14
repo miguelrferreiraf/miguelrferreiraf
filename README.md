@@ -42,7 +42,7 @@ I'm obsessed with **nature**. That's why I chose _The wanderer above the sea of 
   
   <div align="center"><img src=img/Polish_20220828_175114897.jpg width=50% height=50% açt="Other one..."><p><i>From the building I work in. Love sunsets🌞</i></p></div>
   
-- **Machine learning beyond it's definition** 🌳🌋.
+- **Machine learning beyond it's definition** :exclamation::exclamation::boom:.
   
   <div align="center"><img src=img/Capturar.PNG alt="Deep learning for image recognition"><p><i>LSTM Neural Network with ReLU activation function for image recognition</i></p></div>
   

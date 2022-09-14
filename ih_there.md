@@ -6,9 +6,7 @@
 
 Really really love what I do 😀! ***I'm obsessed*** with the implications of generative machine learning and how it can change how we face real world problems. But not only this: I wonder not only what machine learning can do for ourselves but what WE may learn from them 😦:suspect:.
 
-I have familiarity with most of **Python technologies** of **machine learning and data science** <br>
-but my most important tool is my capabilitie to link different fields of knowledge in a engaging <br>
-algorithm. My interests include:
+I have familiarity with most of **Python technologies** of **machine learning and data science** but my most important tool is my capabilitie to link different fields of knowledge in a engaging algorithm. My interests include:
 
 - 📊 Machine learning, IA and it's implications 📉
 - ➗ Mathematics for machine learning and data science

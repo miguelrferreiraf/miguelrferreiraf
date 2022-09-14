@@ -66,4 +66,8 @@ That's why I really love studying religion, culture and history. It turns me eve
   - [Portfolio](miguelrferreiraf.github.io)
 
 </details>
+
+<a><img src="https://i.gifer.com/1SqP.gif" width="30%"></a>
+
+
   

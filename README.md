@@ -40,7 +40,7 @@ Everything involving machine learning, IA, data science and each papeline step s
   
 I'm obsessed with **nature**. That's why I chose _The wanderer above the sea of fog_ to open my overview 🎨. It's the opitome of the romantic nature affected man. With romantic I mean not traditionally romantic, like Titanic or Romeu and Juliet, but romantic by thinking over our place in world. I constantly think about while programming, how technology inspire me to the other hand: life, nature, culture... things like this really move me and soar me.
   
-  <div align="center"><img src=img/Polish_20220828_175114897.jpg width=50% height=50% açt="Other one..."><p><i>From the building I work in.</i></p></div>
+  <div align="center"><img src=img/Polish_20220828_175114897.jpg width=50% height=50% açt="Other one..."><p><i>From the building I work in. Love sunsets🌞</i></p></div>
   
 - **Machine learning beyond it's definition** 🌳🌋.
   

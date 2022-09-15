@@ -19,7 +19,7 @@ I have familiarity with most of **Python technologies** of **machine learning an
   <summary><b>🤓 What do I do?</b></summary>
   <br/>
 
-Everything involving machine learning, IA, data science and each papeline step since the data obtention to hosting is of my interest.
+**Everything involving machine learning, IA, data science and each papeline step since the data obtention to hosting is of my interest**.
   
   - **Web scraping** :bar_chart:
   - **Data cleaning** :clipboard:

@@ -16,7 +16,7 @@ I have familiarity with most of **Python technologies** of **machine learning an
 
 
 <details>
-  <summary><b>🤓 What do I do?</b></summary>
+  <summary><b> ##🤓 What do I do?</b></summary>
   <br/>  
   
   <div align="center"><img src=https://c.tenor.com/QQmvna2K7vwAAAAd/thanosgenerator-110.gif width=50%><p><i>Kinda...:muscle:</i></p></div>

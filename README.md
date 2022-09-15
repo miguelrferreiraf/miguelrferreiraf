@@ -56,7 +56,7 @@ Do you know this guy? Is ***Mircea Eliade***. The second Jung. I love both. Jung
   
 That's why I really love studying religion, culture and history. It turns me even into a better programmer. For I'm worried what we could reach with our progress and what may we lose. 
 
-  <div align="center"><img src="img/christian_tablet.png" width=35%><p><i>Christian tablet from pre-Nicene period</i></p></div>
+  <div align="center"><img src="img/christian_tablet.png" width=35%><p><i>Christian tablet from pre-Nicene period 😍✝️.</i></p></div>
  
 </details>
   

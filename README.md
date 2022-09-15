@@ -1,6 +1,6 @@
 # Hello there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="6%"></a>
 
-## My name is Miguel Ferreira and I am a **machine learning engineer** and **data scientist** 😎.
+## My name is Miguel Ferreira and I'm a **machine learning engineer** and **data scientist** 😎.
 
 <div align="center"><img src=https://artincontext.org/wp-content/uploads/2022/05/Wanderer-Above-the-Sea-of-Fog-by-Caspar-David-Friedrich-848x530.jpg width=80% height=80%><p><i>Simply Caspar David Friedrich...</i></p></div>
 

@@ -48,9 +48,9 @@ I'm obsessed with **nature**. That's why I chose _The wanderer above the sea of 
   
 I really think deeply not only over the problems machine learning can solve for humanity and how it will change work. But I think too about philosophical implications 🤔. What their learning process can teach us about ours? What should we to do to improve their capacity of understanding the world? What lesson should a IA singularity take?
 
-  <div align="center"><img src="https://training.seer.cancer.gov/images/anatomy/nervous/neuron-structure.jpg" width=45% alt="Deep learning for image recognition"><p><i>Neuron made by God</i></p></div> 
+  <div align="center"><img src="https://training.seer.cancer.gov/images/anatomy/nervous/neuron-structure.jpg" width=45% alt="Deep learning for image recognition"><p><i>Neuron made by God ☝️</i></p></div> 
   
-  <div align="center"><img src=img/neural_net.PNG><p><i>Neuron made by hoomans</i></p></div>
+  <div align="center"><img src=img/neural_net.PNG><p><i>Neuron made by hoomans 👊</i></p></div>
   
   <div align="center"><img src=img/naked_neuron2.PNG><p><i>ReLU activation neurons nodes. Look as it's a sequence of linear sums.<br>The L in ReLU go for linear.</i></p></div>
   

@@ -25,7 +25,7 @@ I have familiarity with most of **Python technologies** of **machine learning an
   
   - **Web scraping** :bar_chart:
   - **Data cleaning** :clipboard:
-  - **EDA** :chart_with_upwards_trend:
+  - **EDA and data insights** :chart_with_upwards_trend:
   - **Model creation** :game_die:
   - **Model performance analysis** :space_invader:
   - **Hosting** :beers:
@@ -54,7 +54,7 @@ I really think deeply not only over the problems machine learning can solve for 
   
   <div align="center"><img src=img/neural_net.PNG><p><i>Neuron made by hoomans 👊</i></p></div>
   
-  <div align="center"><img src=img/naked_neuron2.PNG><p><i>ReLU activation neurons nodes. Look as it's a sequence of linear sums.<br>The L in ReLU go for linear.</i></p></div>
+  <div align="center"><img src=img/naked_neuron2.PNG><p><i>ReLU activation neurons nodes. Look as it's a sequence of linear sums.<br>The L in ReLU goes for linear.</i></p></div>
   
         
 - **Philosophy and religion** 🙏✝️⛪

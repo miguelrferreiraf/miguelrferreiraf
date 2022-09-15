@@ -12,7 +12,7 @@ I have familiarity with most of **Python technologies** of **machine learning an
 - ➗ Mathematics for machine learning and data science
 - 📚 Philosophy, history and why world is what it is 📖
 - 🏊‍ Swimming, chess (not specifically well played 😆)
-- 🌎 Nature and how it define us at all ☀️🌊 <div align="right"><img src=https://miro.medium.com/proxy/1*qz3-Eaw9DyFpMGtLMGH2WA.png width=60%></div>
+- 🌎 Nature and how it define us at all ☀️🌊 
 
 
 <details>

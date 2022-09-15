@@ -14,6 +14,9 @@ I have familiarity with most of **Python technologies** of **machine learning an
 - 🏊‍ Swimming, chess (not specifically well played 😆)
 - 🌎 Nature and how it define us at all ☀️🌊 
 
+>*“People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.”*
+>>**Pedro Domingos**
+
 
 <details>
   <summary><b>🤓 What do I do?</b></summary>

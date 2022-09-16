@@ -33,6 +33,8 @@ I have familiarity with most of **Python technologies** of **machine learning an
   - **Model performance analysis** :space_invader:
   - **Hosting** :beers:
   
+  <div align="left"><img src=  width=30%></div>
+  
  </details>
   
 <details>

@@ -76,7 +76,7 @@ That's why I really love studying religion, culture and history. It turns me eve
   <summary><b>:feelsgood:Contact me</b></summary>
   <br/>
   
-  - ![Linkedin]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})(https://www.linkedin.com/in/miguel-r-ferreira/)
+  - ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/miguel-r-ferreira/)
   - [Portfolio](https://miguelrferreiraf.github.io/)
 
 </details>

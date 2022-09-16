@@ -57,7 +57,7 @@ I really think deeply not only over the problems machine learning can solve for 
   
   <div align="center"><img src=img/neural_net.PNG><p><i>Neuron made by hoomans 👊</i></p></div>
   
-  <div align="center"><img src=img/naked_neuron2.PNG><p><i>ReLU activation neurons nodes. Look as it's a sequence of linear sums.<br>The L in ReLU goes for linear.</i></p></div>
+  <div align="center"><img src=img/naked_neuron2.PNG><p><i>ReLU activation neurons nodes. Look as it's a sequence of linear function sums.<br>The L in ReLU goes for linear.</i></p></div>
   
         
 - **Philosophy and religion** 🙏✝️⛪

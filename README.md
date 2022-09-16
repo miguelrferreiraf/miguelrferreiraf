@@ -34,7 +34,7 @@ I have familiarity with most of **Python technologies** of **machine learning an
   - **Hosting** :beers:
   
   <div align="left"><img src=img/Python.svg.png width=20%></div>
-  ![]()
+  ![tensor_flow_keras](img/tensor-flow_keras.png)
   
  </details>
   

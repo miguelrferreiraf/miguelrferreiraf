@@ -15,7 +15,7 @@ I have familiarity with most of **Python technologies** of **machine learning an
 - 🌎 Nature and how it define us at all ☀️🌊 
 
 >*“People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.”*
->><p align="right"><b>Pedro Domingos (creator of Markov Logic Network)</b></p>
+>><p align="right"><b>Pedro Domingos</b> (creator of Markov Logic Network)</p>
 
 
 <details>

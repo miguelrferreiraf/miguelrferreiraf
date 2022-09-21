@@ -14,8 +14,8 @@ I have familiarity with most of **Python technologies** of **machine learning an
 - 🏊‍ Swimming, chess (not specifically well played 😆)
 - 🌎 Nature and how it define us at all ☀️🌊 
 
-<dev align="center">
-  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)</dev>
+<a align="center">
+  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)</a>
 
 >*“People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.”*
 >><p align="right"><b>Pedro Domingos</b> (creator of Markov Logic Network)</p>

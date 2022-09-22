@@ -47,7 +47,7 @@ I have familiarity with most of **Python technologies** of **machine learning an
   
   <div align="center"><img src=img/IMG_20220828_174601_015.jpg width=50% height=50% item-align=center alt="Pic I took"><p><i>Pic I took. Going home at dusk.</i></p></div>
   
-I'm obsessed with **nature**. That's why I chose _The wanderer above the sea of fog_ to open my overview 🎨. It's the epitome of the romantic nature affected man. With romantic I mean not traditionally romantic, like Titanic or Romeo and Juliet, but romantic by thinking over our place in world. I constantly think about while programming, how technology inspire me to the other hand: life, nature, culture... things like this really move me and soar me.
+I'm obsessed with **nature**. That's why I chose _The wanderer above the sea of fog_ to open my overview 🎨. It's the epitome of the romantic nature affected man. With romantic I mean not traditionally romantic, like Titanic or Romeo and Juliet, but romantic by thinking over our place in world. I constantly think about it while programming, how technology inspire me to the other hand: life, nature, culture... things like this really move me and soar me.
   
   <div align="center"><img src=img/Polish_20220828_175114897.jpg width=50% height=50% açt="Other one..."><p><i>From the building I work in. Love sunsets🌞</i></p></div>
   

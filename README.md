@@ -25,7 +25,7 @@ I have familiarity with most of **Python technologies** of **machine learning an
   
   <div align="center"><img src=https://c.tenor.com/QQmvna2K7vwAAAAd/thanosgenerator-110.gif width=50%><p><i>Kinda...:muscle:</i></p></div>
 
-**Everything involving machine learning, IA, data science and each papeline step since the data obtention to hosting is of my interest**.
+**Everything involving machine learning, IA, data science and each pipeline step since the data obtention to hosting is of my interest**.
   
   - **Web scraping** :bar_chart:
   - **Data cleaning** :clipboard:

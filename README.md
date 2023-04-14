@@ -6,13 +6,13 @@
 
 Really really love what I do 😀! ***I'm obsessed*** with the implications of generative machine learning and how it can change how we face real world problems. But not only this: I wonder not only what machine learning can do for ourselves but what WE may learn from them 😦:suspect:.
 
-I have familiarity with most of **Python technologies** of **machine learning and data science** but my most important tool is my capabilitie to link different fields of knowledge in a engaging algorithm. My interests include:
+I have familiarity with most of **Python technologies** of **machine learning and data science** but my most important tool is my capability to link different fields of knowledge in a engaging algorithm. My interests include:
 
-- 📊 Machine learning, IA and it's implications 📉
+- 📊 Machine learning, IA and its implications 📉
 - ➗ Mathematics for machine learning and data science
 - 📚 Philosophy, history and why world is what it is 📖
 - 🏊‍ Swimming, chess (not specifically well played 😆)
-- 🌎 Nature and how it define us at all ☀️🌊 
+- 🌎 Nature and how it defines us at all ☀️🌊 
 
 
 >*“People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.”*

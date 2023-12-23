@@ -42,9 +42,9 @@ I have familiarity with most of **Python technologies** of **machine learning an
   
   <div align="center"><img src=img/IMG_20220828_174601_015.jpg width=50%><p><i>Pic I took. Going home at dusk.</i></p></div>
   
-I'm obsessed with **nature**. That's why I chose _The wanderer above the sea of fog_ to open my overview 🎨. It's the epitome of the romantic nature affected man. With romantic I mean not traditionally romantic, like Titanic or Romeo and Juliet, but romantic by thinking over our place in world. I constantly think about it while programming, how technology inspire me to the other hand: life, nature, culture... things like this really move me and soar me.
+I love **nature**. That's why I chose _The wanderer above the sea of fog_ to open my overview 🎨. It's the epitome of the romantically nature affected man. With romantic I mean not traditionally romantic, like Titanic or Romeo and Juliet, but romantic by thinking over our place in world.
   
-  <div align="center"><img src=img/Polish_20220828_175114897.jpg width=50% height=50% açt="Other one..."><p><i>From the building I work in. Love sunsets🌞</i></p></div>
+  <div align="center"><img src=img/Polish_20220828_175114897.jpg width=50% height=50% açt="Other one..."><p><i>From the building I work in 🌞</i></p></div>
   
 - **Machine learning beyond it's definition** :exclamation::exclamation::boom:.
   
@@ -54,16 +54,16 @@ I really think deeply not only over the problems machine learning can solve for 
 
   <div align="center"><img src="https://training.seer.cancer.gov/images/anatomy/nervous/neuron-structure.jpg" width=45% alt="Deep learning for image recognition"><p><i>Neuron made by God ☝️</i></p></div> 
   
-  <div align="center"><img src=img/neural_net.PNG><p><i>Neuron made by hoomans 👊</i></p></div>
+  <div align="center"><img src=img/neural_net.PNG><p><i>Artificial neuron</i></p></div>
   
-  <div align="center"><img src=img/naked_neuron2.PNG><p><i>ReLU activation neurons nodes. Look as it's a sequence of linear function sums.<br>The L in ReLU goes for linear.</i></p></div>
+  <div align="center"><img src=img/naked_neuron2.PNG><p><i>ReLU activation neurons nodes. As you can see, it's a sequence of linear function sums.<br>The L in ReLU goes for linear.</i></p></div>
   
         
 - **Philosophy and religion** 🙏✝️⛪
   
   <div align="center"><img src=https://upload.wikimedia.org/wikipedia/en/8/8c/Mircea.eliade.jpg alt="Mircea Eliade"><p><i>Gigachad</i></p></div>
   
-Do you know this guy? Is ***Mircea Eliade***. The second Jung. I love both. Jung fought in the psychological field. Eliade, on religion. The enemy was the question: why do we think, act and behave like we do? Why do we constitute culture, sing 🎵, paint 🖌️ or dance 💃? You may not understand why this has anything to do with programming but we haven't never in history been so distant from the things that turns us humans, **for the codes we're programming are now programming us!!**:rage1::rage3::goberserk::finnadie:.  
+The guy in photo is ***Mircea Eliade***. The second Jung. I love both. Jung fought in the psychological field. Eliade, on religion. The enemy was the question: why do we think, act and behave like we do? Why do we constitute culture, sing 🎵, paint 🖌️ or dance 💃? You may not understand why this has anything to do with programming but we haven't never in history been so distant from the things that turns us humans, **for the codes we're programming are now programming us!!**:rage1::rage3::goberserk::finnadie:.  
   
 That's why I really love studying religion, culture and history. It turns me even into a better programmer. For I'm worried what we could reach with our progress and what may we lose. 
 

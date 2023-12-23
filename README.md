@@ -9,7 +9,7 @@ I have familiarity with most of **Python technologies** of **machine learning an
 - 📊 Machine learning, IA and its implications 📉
 - ➗ Mathematics for machine learning and data science
 - 📚 Philosophy, history and why world is what it is 📖
-- 🏊‍ Swimming, chess (not specifically well played 😆)
+- 🏊‍ Swimming, chess (not specifically well played)
 - 🌎 Nature and how it defines us at all ☀️🌊
 
 >*“People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.”*

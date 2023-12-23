@@ -2,7 +2,7 @@
 
 ## My name is Miguel Ferreira and I'm a **web/desktop developer** and **data scientist**.
 
-<div align="center"><img src=https://artincontext.org/wp-content/uploads/2022/05/Wanderer-Above-the-Sea-of-Fog-by-Caspar-David-Friedrich-848x530.jpg width=80% height=80%><p><i>Simply Caspar David Friedrich...</i></p></div>
+<div align="center"><img src=https://artincontext.org/wp-content/uploads/2022/05/Wanderer-Above-the-Sea-of-Fog-by-Caspar-David-Friedrich-848x530.jpg width=80% height=80%><p><i>Caspar David Friedrich</i></p></div>
 
 I have familiarity with most of **Python technologies** of **machine learning and data science** but my most important tool is my capability to link different fields of knowledge in a engaging algorithm. My interests include:
 

@@ -62,7 +62,7 @@ I really think deeply not only over the problems machine learning can solve for 
         
 - **Philosophy and religion** 🙏✝️⛪
   
-  <div align="center"><img src=https://upload.wikimedia.org/wikipedia/en/8/8c/Mircea.eliade.jpg alt="Mircea Eliade"><p><i>Gigachad</i></p></div>
+  <div align="center"><img src=https://raw.githubusercontent.com/miguelrferreiraf/miguelrferreiraf/main/img/Eliade.jpg alt="Mircea Eliade"><p><i>Mircea Eliade</i></p></div>
   
 The guy in photo is ***Mircea Eliade***, the greatest mithologist and comparative religion researcher of sec. XX. His invetigations regarded of why do we think, act and behave like we do. Why do we constitute culture, sing 🎵, paint 🖌️ or dance 💃? You may not understand why this has anything to do with programming but we haven't never in history been so distant from the things that turns us humans, **for the codes we're programming are now programming us**.  
   

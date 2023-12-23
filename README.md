@@ -81,7 +81,7 @@ That's why I really love studying religion, culture and history. It turns me eve
   - [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://miguelrferreiraf.github.io/)
   - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MiguelRFerreiraF)
 
-You may also be interested in my [weblog](paraisoreavido.github.io).
+You may also be interested in my [weblog](https://paraisoreavido.github.io/).
   
 </details>
 

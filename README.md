@@ -20,14 +20,14 @@ I have familiarity with most of **Python technologies** of **machine learning an
   <summary><b>What do I do?</b></summary>
   <br/>  
 
-**Everything involving machine learning, IA, data science and each pipeline step since the data obtention to hosting is of my interest**.
+Everything involving machine learning, IA, data science and each pipeline step since the data obtention to hosting is of my interest.
   
   - **CRISP-DM Methodology** :bar_chart:
   - **Data cleaning** :clipboard:
   - **EDA and data insights** :chart_with_upwards_trend:
   - **Model creation** :game_die:
   - **Model performance analysis** :space_invader:
-  - **Hosting** :beers:
+  - **Deploy and hosting** :beers:
   
  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/) 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/?hl=pt-br)

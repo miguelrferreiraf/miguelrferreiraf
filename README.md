@@ -1,10 +1,8 @@
 # Hello there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="6%"></a>
 
-## My name is Miguel Ferreira and I'm a **machine learning engineer** and **data scientist** 😎.
+## My name is Miguel Ferreira and I'm a **web/desktop developer** and **data scientist**.
 
 <div align="center"><img src=https://artincontext.org/wp-content/uploads/2022/05/Wanderer-Above-the-Sea-of-Fog-by-Caspar-David-Friedrich-848x530.jpg width=80% height=80%><p><i>Simply Caspar David Friedrich...</i></p></div>
-
-Really really love what I do 😀! ***I'm obsessed*** with the implications of generative machine learning and how it can change how we face real world problems. But not only this: I wonder not only what machine learning can do for ourselves but what WE may learn from them 😦:suspect:.
 
 I have familiarity with most of **Python technologies** of **machine learning and data science** but my most important tool is my capability to link different fields of knowledge in a engaging algorithm. My interests include:
 
@@ -12,22 +10,19 @@ I have familiarity with most of **Python technologies** of **machine learning an
 - ➗ Mathematics for machine learning and data science
 - 📚 Philosophy, history and why world is what it is 📖
 - 🏊‍ Swimming, chess (not specifically well played 😆)
-- 🌎 Nature and how it defines us at all ☀️🌊 
-
+- 🌎 Nature and how it defines us at all ☀️🌊
 
 >*“People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.”*
 >><p align="right"><b>Pedro Domingos</b> (creator of Markov Logic Network)</p>
 
 
 <details>
-  <summary><b>🤓 What do I do?</b></summary>
+  <summary><b>What do I do?</b></summary>
   <br/>  
-  
-  <div align="center"><img src=https://c.tenor.com/QQmvna2K7vwAAAAd/thanosgenerator-110.gif width=50%><p><i>Kinda...:muscle:</i></p></div>
 
 **Everything involving machine learning, IA, data science and each pipeline step since the data obtention to hosting is of my interest**.
   
-  - **Web scraping** :bar_chart:
+  - **CRISP-DM Methodology** :bar_chart:
   - **Data cleaning** :clipboard:
   - **EDA and data insights** :chart_with_upwards_trend:
   - **Model creation** :game_die:

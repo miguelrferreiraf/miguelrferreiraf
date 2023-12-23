@@ -79,7 +79,8 @@ That's why I really love studying religion, culture and history. It turns me eve
   - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelrferreira98/)
   - [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://miguelrferreiraf.github.io/)
   - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MiguelRFerreiraF)
+
+You may also be interested in my [weblog](paraisoreavido.github.io).
   
 </details>
 
-<div align="center"><img src="https://i.gifer.com/origin/a5/a5680ea5c7ce4ec4295af7f8fa0d8f48.gif" width="30%"><p><i>Hope boss don't be like her 😨😆</i></p></div> 

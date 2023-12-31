@@ -1,4 +1,4 @@
-# Hello there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="6%"></a>
+# Hello there! <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="6%"></a>
 
 ## My name is Miguel Ferreira and I'm a **web/desktop developer** and **data scientist**.
 

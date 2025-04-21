@@ -1,6 +1,6 @@
 # Hello there! <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="6%"></a>
 
-## My name is Miguel Ferreira and I'm a **web/desktop developer** and **data scientist**.
+## My name is Miguel Ferreira and I'm a **web/desktop developer**, **data scientist, machine learning** and **blockchain developer**.
 
 <div align="center"><img src=https://artincontext.org/wp-content/uploads/2022/05/Wanderer-Above-the-Sea-of-Fog-by-Caspar-David-Friedrich-848x530.jpg width=80% height=80%><p><i>Caspar David Friedrich</i></p></div>
 
